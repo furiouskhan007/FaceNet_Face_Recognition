@@ -6,8 +6,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.https://github.com/naemazam/Real-time-face-recognition-Using-Facenet)
-[![](https://img.shields.io/badge/Naem-Azam-brightgreen.svg?colorB=0000)](https://naemazam.github.io/Researcher/)
+
 
 ## Description 📰 
 A facial recognition system is a technology capable of identifying or verifying a person from a digital image or a video frame from a video source. There are multiples methods in which facial recognition systems work, but in general, they work by comparing selected facial features from given image with faces within a database.
@@ -46,6 +45,7 @@ If you face any problem, kindly raise an issue
 ```
 
 # Dependencies 💾
+Python 3.11.5
 This code was working properly on tensroflow 2.3.0.
 - Tensorflow 2.X
 - numpy
