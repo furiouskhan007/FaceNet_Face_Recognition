@@ -16,7 +16,8 @@ A facial recognition system is a technology capable of identifying or verifying 
 ## Functionalities added 🕵️‍♂️
 1. Using face align functionality from dlib to predict effectively while live streaming.
 
-
+# Python Compatibility 
+* Python 3.10.4
 
 ## Python  Implementation 👨‍🔬
 
